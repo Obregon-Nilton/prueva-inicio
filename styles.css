@@ -1,0 +1,12 @@
+*{
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+/**
+Working Directory → donde modificas tus archivos del proyecto.
+Staging Area → donde Git prepara los cambios que quieres guardar.
+Repository → donde Git guarda las versiones e historial.
+**/
